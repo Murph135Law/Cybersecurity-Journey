@@ -31,4 +31,4 @@ Documenting challenges demonstrates:
 
 ---
 
-**TryHackMe Profile**: [Add your profile link when available]
+**TryHackMe Profile**: 
